@@ -16,10 +16,12 @@ I am a Senior Software Engineer with **8+ years of development experience (7 yea
 
 ### [Dispersia](https://www.dispersia.io)
 **Founder & Lead Developer**
+
 A sophisticated message templating service designed for messengers and corporate task/project management platforms. It enables automated, template-based notifications via API for Telegram, Email, and internal corporate tools.
 
 ### [Centerlight](https://centerlight.com)
 **Lead Full-stack Developer**
+
 Recognized as the most fault-tolerant and resilient project in the company's portfolio. I focused on ensuring maximum uptime and high-load stability for this critical system.
 
 ## 🛠 Tech Stack
@@ -43,6 +45,7 @@ I have a proven track record of delivering complex ERP systems and high-scale E-
 * **TeamGroup** — ERP + Website | ([teamgroup.org](https://teamgroup.org))
 
 ### E-commerce & Web Solutions
+* **Centerlight** | [centerlight.com](https://centerlight.com)
 * **Doors Los Angeles** | [doorslosangeles.com](https://doorslosangeles.com)
 * **Trendy Doors** | [trendy-doors.com](https://trendy-doors.com)
 * **Questroom** | [questroom.com](https://questroom.com)
@@ -59,5 +62,5 @@ When I'm not building systems, I explore **theoretical physics** (cosmology and 
 
 * **LinkedIn:** [linkedin.com/in/oleg-putseiko](https://www.linkedin.com/in/oleg-putseiko/)
 * **HeadHunter**: [hh.ru/resume](https://hh.ru/resume/376f32f3ff0be1fdf80039ed1f637454794e67)
-* **Work (Dispersia):** [oleg.putseiko@dispersia.io](mailto:oleg.putseiko@dispersia.io)
-* **Personal:** [oleg.putseiko@gmail.com](mailto:oleg.putseiko@gmail.com)
+* **Personal Email:** [oleg.putseiko@gmail.com](mailto:oleg.putseiko@gmail.com)
+* **Work (Dispersia) Email:** [oleg.putseiko@dispersia.io](mailto:oleg.putseiko@dispersia.io)
