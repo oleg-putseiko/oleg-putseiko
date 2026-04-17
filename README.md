@@ -31,7 +31,7 @@ Recognized as the most fault-tolerant and resilient project in the company's por
 * **Databases & Caching:** PostgreSQL, Redis, Prisma ORM.
 * **DevOps & Tools:** Docker, CI/CD, Git.
 * **Frontend:** React, Next.js.
-* **Hardware & IoT:** Experience with ESP32-S3 and hardware-based sensing technologies.
+* **Technologies & Performance:** WebAssembly, hardware-based sensing technologies (e.g. ESP32-S3).
 
 ## 💼 Outsource Experience
 
