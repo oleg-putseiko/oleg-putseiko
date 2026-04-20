@@ -26,12 +26,12 @@ Recognized as the most fault-tolerant and resilient project in the company's por
 
 ## 🛠 Tech Stack
 
-* **Languages:** JavaScript (ES6+) + TypeScript, Python, C/C++, C#, Java, Assembler.
+* **Languages:** JavaScript (ES6+) / TypeScript, Python, C/C++, C#, Java, Assembler.
 * **Backend:** Node.js, NestJS, Express, GraphQL.
 * **Databases & Caching:** PostgreSQL, Redis, Prisma ORM.
 * **DevOps & Tools:** Docker, CI/CD, Git.
-* **Frontend:** React, Next.js.
-* **Technologies & Performance:** WebAssembly, hardware-based sensing technologies (e.g. ESP32-S3).
+* **Frontend:** React, Next.js, Tailwind CSS.
+* **Technologies & Performance:** WebAssembly, hardware-based sensing technologies.
 
 ## 💼 Outsource Experience
 
@@ -63,4 +63,4 @@ When I'm not building systems, I explore **theoretical physics** (cosmology and 
 * **LinkedIn:** [linkedin.com/in/oleg-putseiko](https://www.linkedin.com/in/oleg-putseiko/)
 * **HeadHunter**: [hh.ru/resume](https://hh.ru/resume/376f32f3ff0be1fdf80039ed1f637454794e67)
 * **Personal Email:** [oleg.putseiko@gmail.com](mailto:oleg.putseiko@gmail.com)
-* **Work (Dispersia) Email:** [oleg.putseiko@dispersia.io](mailto:oleg.putseiko@dispersia.io)
+* **Work Email (Dispersia):** [oleg.putseiko@dispersia.io](mailto:oleg.putseiko@dispersia.io)
