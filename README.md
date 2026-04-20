@@ -35,14 +35,14 @@ Recognized as the most fault-tolerant and resilient project in the company's por
 
 ## 💼 Outsource Experience
 
-I have a proven track record of delivering complex ERP systems and high-scale E-commerce solutions:
+Below is a selection of key projects I have contributed to out of a much broader portfolio, showcasing a proven track record of delivering complex ERP systems and high-scale E-commerce solutions:
 
 ### Enterprise & ERP Systems
 * **Transit LLC** — ERP
 * **PAO NBAMR** — ERP
 * **PAO Tiger** — ERP
 * **Nevada Group** — ERP
-* **TeamGroup** — ERP + Website | ([teamgroup.org](https://teamgroup.org))
+* **TeamGroup** — ERP + Website | [teamgroup.org](https://teamgroup.org)
 
 ### E-commerce & Web Solutions
 * **Centerlight** | [centerlight.com](https://centerlight.com)
