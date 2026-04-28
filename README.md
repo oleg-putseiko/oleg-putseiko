@@ -14,15 +14,13 @@ I am a Senior Software Engineer with **8+ years of development experience (7 yea
 
 ## 🚀 Key Projects
 
-### [Dispersia](https://www.dispersia.io)
-**Founder & Lead Developer**
+* **[Dispersia](https://www.dispersia.io) | Founder & Lead Developer**
 
-A sophisticated message templating service designed for messengers and corporate task/project management platforms. It enables automated, template-based notifications via API for Telegram, Email, and internal corporate tools.
+  A sophisticated message templating service designed for messengers and corporate task/project management platforms. It enables automated, template-based notifications via API for Telegram, Email, and internal corporate tools.
 
-### [Centerlight](https://centerlight.com)
-**Lead Full-stack Developer**
+* **[Centerlight](https://centerlight.com) | Lead Full-stack Developer**
 
-Recognized as the most fault-tolerant and resilient project in the company's portfolio. I focused on ensuring maximum uptime and high-load stability for this critical system.
+  Recognized as the most fault-tolerant and resilient project in the company's portfolio. I focused on ensuring maximum uptime and high-load stability for this critical system.
 
 ## 🛠 Tech Stack
 
