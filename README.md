@@ -54,6 +54,17 @@ Below is a selection of key projects I have contributed to out of a much broader
 * **Dilan** | [dilan.ru](https://dilan.ru)
 * **White Rabbit (PetSmart)** | [petsmart.ru](https://petsmart.ru)
 
+## 🔐 Code Privacy & Technical Demonstration
+
+A significant portion of my commercial work (including personal SaaS projects and outsource solutions) is hosted in private repositories to protect intellectual property and user data.
+
+I am open to demonstrating my technical approach and code quality, provided that **confidentiality is maintained**. Access to specific, non-sensitive code samples or architectural reviews can be arranged under the following conditions:
+* **Zero Risk:** No exposure of user data or sensitive infrastructure details.
+* **Legal Compliance:** Strict adherence to existing NDAs.
+* **Formal Agreement:** Acceptance of a license agreement or a mutual NDA where applicable.
+
+To request a technical demonstration or code review, please contact me at **oleg.putseiko@gmail.com**.
+
 ## 🌌 Beyond Coding
 
 When I'm not building systems, I explore **theoretical physics** (cosmology and quantum mechanics) and I am currently learning **French**.
