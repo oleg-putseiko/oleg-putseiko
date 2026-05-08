@@ -12,11 +12,56 @@ I am a Senior Software Engineer with **8+ years of development experience (7 yea
 - **Backend Architecture:** Developing scalable and performant services using Node.js, NestJS, GraphQL, and Prisma.
 - **Low-Level Programming:** Deep understanding of system architecture and experience with Assembler, enabling fine-grained optimization and direct hardware-level interactions.
 
-## 🚀 Key Projects
+## ✨ Key Projects
 
-| <div align="center">**[Dispersia](https://www.dispersia.io)**</div>                                                                                                                                                                                                                                                                                                            | <div align="center">**[Proprio](http://proprio.ru/)**</div>                                                                                                                                                                                                                                       | <div align="center">**[Centerlight](https://centerlight.com)**</div>                                                                                                                                                                                                                                                                                                                                         |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <div align="center"><a href="https://www.dispersia.io"><img src="./assets/dispersia.png" height="180" alt="Dispersia"></a><br><br>**Founder & Lead Developer**<br><br>A sophisticated service for message templating across various messengers, project/task management platforms, and AI-powered copywriting.<br><br>✨ The most high-performance project in my career.</div> | <div align="center"><a href="http://proprio.ru/"><img src="./assets/proprio.png" height="180" alt="Proprio"></a><br><br>**Frontend Developer**<br><br>A contemporary clothing brand focused on architectural silhouettes and high-quality materials, creating a versatile "smart" wardrobe.</div> | <div align="center"><a href="https://centerlight.com"><img src="./assets/centerlight.png" height="180" alt="Centerlight"></a><br><br>**Lead Full-stack Developer**<br><br>A premium architectural lighting brand platform featuring high-end lighting solutions and interactive tools for luminaire customization.<br><br>⚡️ The most fault-tolerant and resilient project in the company's portfolio.</div> |
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://www.dispersia.io"><b>Dispersia</b></a>
+      </td>
+      <td width="33%" align="center">
+        <a href="http://proprio.ru/"><b>Proprio</b></a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://centerlight.com"><b>Centerlight</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" valign="top" align="center">
+        <a href="https://www.dispersia.io">
+          <img src="./assets/dispersia.png" alt="Dispersia" width="100%">
+        </a>
+        <br><br>
+        <b>Founder & Lead Developer</b>
+        <br><br>
+        A sophisticated service for message templating across various messengers, project/task management platforms, and AI-powered copywriting.
+        <br><br>
+        🚀 The most high-performance project in my career.
+      </td>
+      <td width="33%" valign="top" align="center">
+        <a href="http://proprio.ru/">
+          <img src="./assets/proprio.png" alt="Proprio" width="100%">
+        </a>
+        <br><br>
+        <b>Frontend Developer</b>
+        <br><br>
+        A contemporary clothing brand focused on architectural silhouettes and high-quality materials, creating a versatile "smart" wardrobe.
+      </td>
+      <td width="33%" valign="top" align="center">
+        <a href="https://centerlight.com">
+          <img src="./assets/centerlight.png" alt="Centerlight" width="100%">
+        </a>
+        <br><br>
+        <b>Lead Full-stack Developer</b>
+        <br><br>
+        A premium architectural lighting brand platform featuring high-end lighting solutions and interactive tools for luminaire customization.
+        <br><br>
+        ⚡️ The most fault-tolerant and resilient project in the company's portfolio.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠 Tech Stack
 
